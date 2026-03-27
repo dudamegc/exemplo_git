@@ -15,7 +15,9 @@ Git.
 
 ## Subindo projeto para o git
  git status
+ 
  -- git status antes do commit
+ 
  <img width="559" height="138" alt="image" src="https://github.com/user-attachments/assets/f161026c-c015-442b-a170-dd276869f45b" />
 
  -- git status depois do commit
