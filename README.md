@@ -33,10 +33,10 @@ GitHub Flow.
  <img width="652" height="58" alt="image" src="https://github.com/user-attachments/assets/2fa08bf3-34dd-40fe-bcbe-18ee891368fa" />
 
  Pull Request no GitHub
- conflito aparecendo
+ 
+Conflito aparecendo
  <img width="1298" height="642" alt="image" src="https://github.com/user-attachments/assets/901c234e-e57f-43c2-a08c-dfa4e480b419" />
 
- conflito resolvido
+Conflito resolvido
  <img width="1286" height="620" alt="image" src="https://github.com/user-attachments/assets/c3dfb3ce-0e3c-4972-9de1-173ea32790a7" />
 
- repositório final no GitHub
