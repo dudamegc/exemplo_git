@@ -24,6 +24,7 @@ GitHub Flow.
  <img width="774" height="68" alt="image" src="https://github.com/user-attachments/assets/7979abd4-c090-41ad-a1b4-186e4cf5e719" />
 
  git log --oneline
+
 <img width="753" height="85" alt="image" src="https://github.com/user-attachments/assets/b9dfbf07-06d2-4b6a-b3e5-09e24297b07b" />
 
  
